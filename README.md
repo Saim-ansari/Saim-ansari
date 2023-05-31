@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saim-ansari
-- 👀 I’m interested in Analytics
+- 👀 I’m interested in Analytics and would like to collaborate for projects
 - 🌱 I’m currently learning SQL and Tableau
-- 💞️ I’m looking for entry level opportunities in the Analytics Domain
+- 💞️ I’m also looking for entry level opportunities in the Analytics Domain
 - 📫 How to reach me saimkansari@gmail.com
 
 <!---
